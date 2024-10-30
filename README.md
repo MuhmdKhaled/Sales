@@ -36,6 +36,14 @@ Consumer vs. Corporate Profit Distribution: Two pie charts detailing the profit 
 This layout gives a comprehensive view of sales performance and customer segmentation across different regions and product types,
 allowing for in-depth analysis of sales patterns, profitability,and delivery efficiency.
 
+Contribution :
+--------------------------------------------------------------------------------------------------------------------------------------
+We welcome contributions from other developers. You can open a pull request to submit improvements or fixes to the report.
+
+Contact :
+-------------------------------------------------------------------------------------------------------------------------------------
+
+If you have any questions or inquiries, please contact us via email at muhmdkhaled05@gmail.com.
 
 
 
