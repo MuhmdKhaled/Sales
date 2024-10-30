@@ -1,6 +1,5 @@
 Y2020 Performance Dashboard
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This dashboard visualizes the 2020 performance data across different product categories, client segments, and countries. It provides insights into sales, profits, delivery service levels,
 and segmentation breakdowns, with the following key components:
 
